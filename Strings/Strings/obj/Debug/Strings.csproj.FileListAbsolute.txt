@@ -1,0 +1,6 @@
+C:\Users\IA USER\Desktop\vio\C#\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\IA USER\Desktop\vio\C#\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\IA USER\Desktop\vio\C#\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\IA USER\Desktop\vio\C#\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\IA USER\Desktop\vio\C#\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\IA USER\Desktop\vio\C#\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache

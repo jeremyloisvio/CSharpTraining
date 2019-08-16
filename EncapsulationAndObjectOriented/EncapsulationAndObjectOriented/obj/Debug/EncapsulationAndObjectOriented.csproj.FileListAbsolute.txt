@@ -1,0 +1,5 @@
+C:\Users\IA USER\Desktop\vio\C#\EncapsulationAndObjectOriented\EncapsulationAndObjectOriented\bin\Debug\EncapsulationAndObjectOriented.exe.config
+C:\Users\IA USER\Desktop\vio\C#\EncapsulationAndObjectOriented\EncapsulationAndObjectOriented\bin\Debug\EncapsulationAndObjectOriented.exe
+C:\Users\IA USER\Desktop\vio\C#\EncapsulationAndObjectOriented\EncapsulationAndObjectOriented\bin\Debug\EncapsulationAndObjectOriented.pdb
+C:\Users\IA USER\Desktop\vio\C#\EncapsulationAndObjectOriented\EncapsulationAndObjectOriented\obj\Debug\EncapsulationAndObjectOriented.exe
+C:\Users\IA USER\Desktop\vio\C#\EncapsulationAndObjectOriented\EncapsulationAndObjectOriented\obj\Debug\EncapsulationAndObjectOriented.pdb

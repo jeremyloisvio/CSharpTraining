@@ -1,0 +1,6 @@
+C:\Users\IA USER\Desktop\vio\C#\UnderstandingClassesAndObjects\UnderstandingClassesAndObjects\bin\Debug\UnderstandingClassesAndObjects.exe.config
+C:\Users\IA USER\Desktop\vio\C#\UnderstandingClassesAndObjects\UnderstandingClassesAndObjects\bin\Debug\UnderstandingClassesAndObjects.exe
+C:\Users\IA USER\Desktop\vio\C#\UnderstandingClassesAndObjects\UnderstandingClassesAndObjects\bin\Debug\UnderstandingClassesAndObjects.pdb
+C:\Users\IA USER\Desktop\vio\C#\UnderstandingClassesAndObjects\UnderstandingClassesAndObjects\obj\Debug\UnderstandingClassesAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\IA USER\Desktop\vio\C#\UnderstandingClassesAndObjects\UnderstandingClassesAndObjects\obj\Debug\UnderstandingClassesAndObjects.exe
+C:\Users\IA USER\Desktop\vio\C#\UnderstandingClassesAndObjects\UnderstandingClassesAndObjects\obj\Debug\UnderstandingClassesAndObjects.pdb

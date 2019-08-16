@@ -1,0 +1,6 @@
+C:\Users\IA USER\Desktop\vio\C#\IntroducingLINQ\IntroducingLINQ\bin\Debug\IntroducingLINQ.exe.config
+C:\Users\IA USER\Desktop\vio\C#\IntroducingLINQ\IntroducingLINQ\bin\Debug\IntroducingLINQ.exe
+C:\Users\IA USER\Desktop\vio\C#\IntroducingLINQ\IntroducingLINQ\bin\Debug\IntroducingLINQ.pdb
+C:\Users\IA USER\Desktop\vio\C#\IntroducingLINQ\IntroducingLINQ\obj\Debug\IntroducingLINQ.csprojResolveAssemblyReference.cache
+C:\Users\IA USER\Desktop\vio\C#\IntroducingLINQ\IntroducingLINQ\obj\Debug\IntroducingLINQ.exe
+C:\Users\IA USER\Desktop\vio\C#\IntroducingLINQ\IntroducingLINQ\obj\Debug\IntroducingLINQ.pdb

@@ -1,0 +1,6 @@
+C:\Users\IA USER\Desktop\vio\C#\ImplementingLogicalExpressions\ImplementingLogicalExpressions\bin\Debug\ImplementingLogicalExpressions.exe.config
+C:\Users\IA USER\Desktop\vio\C#\ImplementingLogicalExpressions\ImplementingLogicalExpressions\bin\Debug\ImplementingLogicalExpressions.exe
+C:\Users\IA USER\Desktop\vio\C#\ImplementingLogicalExpressions\ImplementingLogicalExpressions\bin\Debug\ImplementingLogicalExpressions.pdb
+C:\Users\IA USER\Desktop\vio\C#\ImplementingLogicalExpressions\ImplementingLogicalExpressions\obj\Debug\ImplementingLogicalExpressions.csprojResolveAssemblyReference.cache
+C:\Users\IA USER\Desktop\vio\C#\ImplementingLogicalExpressions\ImplementingLogicalExpressions\obj\Debug\ImplementingLogicalExpressions.exe
+C:\Users\IA USER\Desktop\vio\C#\ImplementingLogicalExpressions\ImplementingLogicalExpressions\obj\Debug\ImplementingLogicalExpressions.pdb

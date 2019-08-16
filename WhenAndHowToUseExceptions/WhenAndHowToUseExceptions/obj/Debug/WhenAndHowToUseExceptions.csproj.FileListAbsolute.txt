@@ -1,0 +1,6 @@
+C:\Users\IA USER\Desktop\vio\C#\WhenAndHowToUseExceptions\WhenAndHowToUseExceptions\bin\Debug\WhenAndHowToUseExceptions.exe.config
+C:\Users\IA USER\Desktop\vio\C#\WhenAndHowToUseExceptions\WhenAndHowToUseExceptions\bin\Debug\WhenAndHowToUseExceptions.exe
+C:\Users\IA USER\Desktop\vio\C#\WhenAndHowToUseExceptions\WhenAndHowToUseExceptions\bin\Debug\WhenAndHowToUseExceptions.pdb
+C:\Users\IA USER\Desktop\vio\C#\WhenAndHowToUseExceptions\WhenAndHowToUseExceptions\obj\Debug\WhenAndHowToUseExceptions.csprojResolveAssemblyReference.cache
+C:\Users\IA USER\Desktop\vio\C#\WhenAndHowToUseExceptions\WhenAndHowToUseExceptions\obj\Debug\WhenAndHowToUseExceptions.exe
+C:\Users\IA USER\Desktop\vio\C#\WhenAndHowToUseExceptions\WhenAndHowToUseExceptions\obj\Debug\WhenAndHowToUseExceptions.pdb

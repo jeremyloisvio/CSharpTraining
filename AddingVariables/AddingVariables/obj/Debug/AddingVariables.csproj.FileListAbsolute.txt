@@ -1,0 +1,5 @@
+C:\Users\IA USER\Desktop\vio\C#\AddingVariables\AddingVariables\bin\Debug\AddingVariables.exe.config
+C:\Users\IA USER\Desktop\vio\C#\AddingVariables\AddingVariables\bin\Debug\AddingVariables.exe
+C:\Users\IA USER\Desktop\vio\C#\AddingVariables\AddingVariables\bin\Debug\AddingVariables.pdb
+C:\Users\IA USER\Desktop\vio\C#\AddingVariables\AddingVariables\obj\Debug\AddingVariables.exe
+C:\Users\IA USER\Desktop\vio\C#\AddingVariables\AddingVariables\obj\Debug\AddingVariables.pdb

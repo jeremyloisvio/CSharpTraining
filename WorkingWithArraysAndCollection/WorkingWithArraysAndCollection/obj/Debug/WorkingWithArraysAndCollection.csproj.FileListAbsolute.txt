@@ -1,0 +1,6 @@
+C:\Users\IA USER\Desktop\vio\C#\WorkingWithArraysAndCollection\WorkingWithArraysAndCollection\bin\Debug\WorkingWithArraysAndCollection.exe.config
+C:\Users\IA USER\Desktop\vio\C#\WorkingWithArraysAndCollection\WorkingWithArraysAndCollection\bin\Debug\WorkingWithArraysAndCollection.exe
+C:\Users\IA USER\Desktop\vio\C#\WorkingWithArraysAndCollection\WorkingWithArraysAndCollection\bin\Debug\WorkingWithArraysAndCollection.pdb
+C:\Users\IA USER\Desktop\vio\C#\WorkingWithArraysAndCollection\WorkingWithArraysAndCollection\obj\Debug\WorkingWithArraysAndCollection.exe
+C:\Users\IA USER\Desktop\vio\C#\WorkingWithArraysAndCollection\WorkingWithArraysAndCollection\obj\Debug\WorkingWithArraysAndCollection.pdb
+C:\Users\IA USER\Desktop\vio\C#\WorkingWithArraysAndCollection\WorkingWithArraysAndCollection\obj\Debug\WorkingWithArraysAndCollection.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\IA USER\Desktop\vio\C#\TheDateTimeType\TheDateTimeType\bin\Debug\TheDateTimeType.exe.config
+C:\Users\IA USER\Desktop\vio\C#\TheDateTimeType\TheDateTimeType\bin\Debug\TheDateTimeType.exe
+C:\Users\IA USER\Desktop\vio\C#\TheDateTimeType\TheDateTimeType\bin\Debug\TheDateTimeType.pdb
+C:\Users\IA USER\Desktop\vio\C#\TheDateTimeType\TheDateTimeType\obj\Debug\TheDateTimeType.exe
+C:\Users\IA USER\Desktop\vio\C#\TheDateTimeType\TheDateTimeType\obj\Debug\TheDateTimeType.pdb
+C:\Users\IA USER\Desktop\vio\C#\TheDateTimeType\TheDateTimeType\obj\Debug\TheDateTimeType.csprojResolveAssemblyReference.cache

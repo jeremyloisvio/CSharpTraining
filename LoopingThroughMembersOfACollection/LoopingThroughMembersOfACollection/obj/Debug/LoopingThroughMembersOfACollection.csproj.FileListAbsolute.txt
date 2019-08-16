@@ -1,0 +1,6 @@
+C:\Users\IA USER\Desktop\vio\C#\LoopingThroughMembersOfACollection\LoopingThroughMembersOfACollection\bin\Debug\LoopingThroughMembersOfACollection.exe.config
+C:\Users\IA USER\Desktop\vio\C#\LoopingThroughMembersOfACollection\LoopingThroughMembersOfACollection\bin\Debug\LoopingThroughMembersOfACollection.exe
+C:\Users\IA USER\Desktop\vio\C#\LoopingThroughMembersOfACollection\LoopingThroughMembersOfACollection\bin\Debug\LoopingThroughMembersOfACollection.pdb
+C:\Users\IA USER\Desktop\vio\C#\LoopingThroughMembersOfACollection\LoopingThroughMembersOfACollection\obj\Debug\LoopingThroughMembersOfACollection.exe
+C:\Users\IA USER\Desktop\vio\C#\LoopingThroughMembersOfACollection\LoopingThroughMembersOfACollection\obj\Debug\LoopingThroughMembersOfACollection.pdb
+C:\Users\IA USER\Desktop\vio\C#\LoopingThroughMembersOfACollection\LoopingThroughMembersOfACollection\obj\Debug\LoopingThroughMembersOfACollection.csprojResolveAssemblyReference.cache

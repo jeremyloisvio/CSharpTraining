@@ -1,0 +1,6 @@
+C:\Users\IA USER\Desktop\vio\C#\LoopingAKnownNumber\LoopingAKnownNumber\bin\Debug\LoopingAKnownNumber.exe.config
+C:\Users\IA USER\Desktop\vio\C#\LoopingAKnownNumber\LoopingAKnownNumber\bin\Debug\LoopingAKnownNumber.exe
+C:\Users\IA USER\Desktop\vio\C#\LoopingAKnownNumber\LoopingAKnownNumber\bin\Debug\LoopingAKnownNumber.pdb
+C:\Users\IA USER\Desktop\vio\C#\LoopingAKnownNumber\LoopingAKnownNumber\obj\Debug\LoopingAKnownNumber.exe
+C:\Users\IA USER\Desktop\vio\C#\LoopingAKnownNumber\LoopingAKnownNumber\obj\Debug\LoopingAKnownNumber.pdb
+C:\Users\IA USER\Desktop\vio\C#\LoopingAKnownNumber\LoopingAKnownNumber\obj\Debug\LoopingAKnownNumber.csprojResolveAssemblyReference.cache

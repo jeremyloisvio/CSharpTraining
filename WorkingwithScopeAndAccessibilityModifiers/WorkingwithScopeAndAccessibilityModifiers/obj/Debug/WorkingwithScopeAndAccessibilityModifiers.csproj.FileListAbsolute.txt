@@ -1,0 +1,6 @@
+C:\Users\IA USER\Desktop\vio\C#\WorkingwithScopeAndAccessibilityModifiers\WorkingwithScopeAndAccessibilityModifiers\bin\Debug\WorkingwithScopeAndAccessibilityModifiers.exe.config
+C:\Users\IA USER\Desktop\vio\C#\WorkingwithScopeAndAccessibilityModifiers\WorkingwithScopeAndAccessibilityModifiers\bin\Debug\WorkingwithScopeAndAccessibilityModifiers.exe
+C:\Users\IA USER\Desktop\vio\C#\WorkingwithScopeAndAccessibilityModifiers\WorkingwithScopeAndAccessibilityModifiers\bin\Debug\WorkingwithScopeAndAccessibilityModifiers.pdb
+C:\Users\IA USER\Desktop\vio\C#\WorkingwithScopeAndAccessibilityModifiers\WorkingwithScopeAndAccessibilityModifiers\obj\Debug\WorkingwithScopeAndAccessibilityModifiers.csprojResolveAssemblyReference.cache
+C:\Users\IA USER\Desktop\vio\C#\WorkingwithScopeAndAccessibilityModifiers\WorkingwithScopeAndAccessibilityModifiers\obj\Debug\WorkingwithScopeAndAccessibilityModifiers.exe
+C:\Users\IA USER\Desktop\vio\C#\WorkingwithScopeAndAccessibilityModifiers\WorkingwithScopeAndAccessibilityModifiers\obj\Debug\WorkingwithScopeAndAccessibilityModifiers.pdb

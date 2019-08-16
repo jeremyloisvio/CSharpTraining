@@ -1,0 +1,6 @@
+C:\Users\IA USER\Desktop\vio\C#\MakingDecisions\MakingDecisions\bin\Debug\MakingDecisions.exe.config
+C:\Users\IA USER\Desktop\vio\C#\MakingDecisions\MakingDecisions\bin\Debug\MakingDecisions.exe
+C:\Users\IA USER\Desktop\vio\C#\MakingDecisions\MakingDecisions\bin\Debug\MakingDecisions.pdb
+C:\Users\IA USER\Desktop\vio\C#\MakingDecisions\MakingDecisions\obj\Debug\MakingDecisions.exe
+C:\Users\IA USER\Desktop\vio\C#\MakingDecisions\MakingDecisions\obj\Debug\MakingDecisions.pdb
+C:\Users\IA USER\Desktop\vio\C#\MakingDecisions\MakingDecisions\obj\Debug\MakingDecisions.csprojResolveAssemblyReference.cache
